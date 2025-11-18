@@ -12,9 +12,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![html-code-screenshot](images/html-code.png)
 
-![css-code-screenshot](images/css-code.png)
+
+![Desktop Result](images/desktop-result.png)
+
+![Mobile Result](images/mobile-result.png)
 
 ### Links
 
