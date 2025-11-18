@@ -35,5 +35,5 @@ In this little project, I focused on visual understanding about the example and 
 
 ## Author
 
-- LinkedIn - [Raphael Almeida](www.linkedin.com/in/raphael-almeida-dev12)
+- LinkedIn - [Raphael Almeida](https://www.linkedin.com/in/raphael-almeida-dev12)
 - Frontend Mentor - [@devraph12](https://www.frontendmentor.io/profile/DevRaph12)
